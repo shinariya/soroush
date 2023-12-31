@@ -1,0 +1,17 @@
+@font-face {
+    font-family: vazir;
+    src: url(Vazir.woff2) format(woff2);
+ }
+ body{
+    font-family: vazir;
+    /* background-color: #098568 */
+    background-color: rgba(197, 196, 196, 0.942);
+    /* background-color: rgba(0, 0, 100,0.5); */
+ }
+ 
+ #mode{
+    font-size: 40px;
+    font-style: italic;
+    color: #a20362;
+    text-align: justify;
+ }
